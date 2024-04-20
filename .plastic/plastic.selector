@@ -1,0 +1,4 @@
+repository "GeoAstro@Amani_05@cloud"
+  path "/"
+    br "/main"
+    co "/main"
